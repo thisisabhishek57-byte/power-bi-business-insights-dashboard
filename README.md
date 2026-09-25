@@ -83,20 +83,13 @@ The Settings page provides:
 
 ## 📸 Dashboard Preview
 
-Screenshots of the dashboard will be added here.
+### Sales Overview
+![Sales Overview](Overview.png)
 
-## 🎥 Project Demo
+### Detailed Analysis
+![Detailed Analysis](Detailed-Analysis.png)
 
-A screen recording demonstrating the interactive dashboard will be added here.
-
-## 📁 Project File
-
-The Power BI `.pbix` file will be included in this repository where appropriate.
-
-## 👨‍💻 Project Purpose
-
-This project was created to build practical skills in business analysis, data visualization, Power BI, DAX, and data-driven decision making.
-
----
+### Settings
+![Settings](Settings.png)
 
 **Created with Microsoft Power BI**
